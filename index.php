@@ -1,4 +1,4 @@
-<!doctype html>
+<html>
 <html>
 <head>
 <title>Git tutor</title>
